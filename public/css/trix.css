@@ -1,0 +1,10 @@
+@import "trix/stylesheets/editor";
+@import "trix/stylesheets/toolbar";
+@import "trix/stylesheets/attachments";
+@import "trix/stylesheets/content";
+
+/* import Trix from "trix"
+
+document.addEventListener("trix-before-initialize", () => {
+// Change Trix.config if you need
+}) */
